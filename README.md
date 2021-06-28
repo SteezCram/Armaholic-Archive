@@ -1,4 +1,2 @@
-# PBO-Manager
-Archive repository of PBO-Manager. Here you can find the installer to install it.
-
-For a modern and cross-platform alternative you can check this project: https://github.com/SteezCram/PboViewer
+# Armaholic-Archive
+Archive repository of Armaholic. Here you can find all the stuff previously on Armaholic.
